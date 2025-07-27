@@ -1,0 +1,9 @@
+{
+  "persona": "Undergraduate Chemistry Student",
+  "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+  "documents": [
+    "chem_chapter1.pdf",
+    "chem_chapter2.pdf",
+    "chem_chapter3.pdf"
+  ]
+}
